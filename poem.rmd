@@ -14,7 +14,11 @@ Our project will be done using several commits to the master branch.
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->They roused him with muffins--they roused him with ice--
+They roused him with mustard and cress--
+They roused him with jam and judicious advice--
+They set him conundrums to guess.
+When at length he sat up and was able to speak  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
